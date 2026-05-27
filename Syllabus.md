@@ -48,11 +48,7 @@ This course includes substantial supervised, independent research work. There wi
 
 ## Grading
 
-Grades for this course will be relative. The students who do the best work will get an A, the students who don't do as well get a B, and so on. I will likely not be following the traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve, as applying it blindly could result in grades actually being lowered if everyone is doing very well in the course.
-
-### Final Grading Caveats
-
-
+Grades for this course will be based on the quality, challenge, completeness, and scholarly rigor of the research project each student undertakes. I will not be following the traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve, as applying it blindly could result in grades actually being lowered if everyone is doing very well in the course.
 
 ### Grade Categories:
 
@@ -66,9 +62,16 @@ Grades for this course will be relative. The students who do the best work will 
 * Written research report
 * Oral presentation and defense
 
-#### Letter Grades
+#### Letter Grades and Final Grading Caveats
 
-Letter grades will be assigned based on the completion and quality of all milestones and on how the final research project, written report, presentation, and oral defense meet the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml). The catalog grade basis for this course is Report in Progress: Graded.
+Letter grades will be assigned based on the completion and quality of all milestones and on how the quality and challenge of the final research project, written report, presentation, and oral defense meet the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml) for graduate courses. The catalog grade basis for this course is Report in Progress: Graded.
+
+For graduate courses numbered 600 to 699, the grading symbol definitions are:
+
+* A: Superior work, a level of achievement so outstanding that it is normally attained by relatively few students.
+* B: Adequate work, a level of achievement indicating adequate competence in the subject matter/skill. This level or higher will usually be met by a majority of students in the class.
+* C: Minimally acceptable work, a level of achievement that meets the minimum requirements of the course.
+* F: Unacceptable work, a level of achievement that fails to meet the minimum requirements of the course. Not passing.
 
 
 ### Grading Meetings
@@ -175,4 +178,3 @@ The CSU requires students to be fully vaccinated against COVID-19 by September 3
 Please note that dishonesty relating to the vaccination policy and/or your failure to comply with any other COVID-19 related safety policy or mandate, including the face covering requirement, may result in disciplinary action against you through the office of Student Conduct, Rights and Responsibilities, which can include suspension or expulsion from the California State University system. 
 
 Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
-

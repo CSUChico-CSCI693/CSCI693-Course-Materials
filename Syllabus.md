@@ -24,8 +24,6 @@ Fall and spring
 
 This course interweaves three distinct themes: investigation, experimentation, and technical writing. These themes culminate in a comprehensive research project, written report, presentation, and oral defense. First, students are immersed into the research process within Computer Science, including an understanding of the role, ethics, and responsibility of researchers in Computer Science. The second focus is on rigorous design of experiments for the purpose of testing research hypotheses, simulations, and models, and interpreting the results of those experiments. Finally, proficiency in communication of scientific ideas and findings will be addressed through intensive reading, critiques, technical writing, and oral presentations.
 
-9 hours supervision. (020616)
-
 ### Grade Basis
 
 Report in Progress: Graded

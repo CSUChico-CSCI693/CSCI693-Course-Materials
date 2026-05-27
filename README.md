@@ -1,38 +1,45 @@
-# CSCI340 Course-Materials
+# CSCI 693 Course Materials
 
-This is a repo containing all the class materials for the CSCI340 Operating Systems course at CSUChico
+This repository contains class materials for CSCI 693, Research Methods in Computer Science, at CSU Chico.
 
 ## About
 
 The course catalogue describes this course as follows:
 
+### Course
 
-### Prerequisites:
-Grade of C or better in CSCI 311 and EECE320.
+CSCI 693: Research Methods in Computer Science
+
+### Units
+
+3 units
+
+### Prerequisite
+
+Candidate status.
+
+### Typically Offered
+
+Fall and spring
 
 ### Description
 
-   Operating system fundamentals, including history, process and thread management, concurrency with semaphores and monitors, deadlocks, storage management, file systems, I/O, and distributed systems.
+This course interweaves three distinct themes: investigation, experimentation, and technical writing. These themes culminate in a comprehensive research project, written report, presentation, and oral defense. First, students are immersed into the research process within Computer Science, including an understanding of the role, ethics, and responsibility of researchers in Computer Science. The second focus is on rigorous design of experiments for the purpose of testing research hypotheses, simulations, and models, and interpreting the results of those experiments. Finally, proficiency in communication of scientific ideas and findings will be addressed through intensive reading, critiques, technical writing, and oral presentations.
 
-### Hours
-   3 hours discussion, 2 hours activity.
+9 hours supervision. (020616)
 
-## [Syllabus](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Syllabus.md "CSCI340 Syllabus")
+### Grade Basis
 
-This can be found in the [Syllabus.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Syllabus.md "CSCI340 Syllabus") file
+Report in Progress: Graded
 
-## [Grader(s)](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/TA.md "CSCI340 Graders")
+### Repeatability
 
-Details on the grader(s) for the course can be found on the [TA.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/TA.md "CSCI340 Graders") page.
+You may take this course for a maximum of 3 units.
 
-## [Readings](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings")
+### Course Attributes
 
-Details for the recommended readings for the course can be found on the [Readings.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings") page
+Graduate Division; Laptop required, see department for details.
 
-## [Assignments](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments")
+## [Syllabus](https://github.com/CSUChico-CSCI693/CSCI693-Course-Materials/blob/main/Syllabus.md "CSCI 693 Syllabus")
 
-Assignment details can be found on the [Assignments.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments") page. Due dates are on my website for any given semester. 
-
-## [Links](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Links.md "CSCI340 Links")
-
-Useful links for the course or in general can be found in the [Links.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Links.md "CSCI340 Links") page
+This can be found in the [Syllabus.md](https://github.com/CSUChico-CSCI693/CSCI693-Course-Materials/blob/main/Syllabus.md "CSCI 693 Syllabus") file.

@@ -1,14 +1,42 @@
-# CSCI490 Syllabus
+# CSCI 693 Syllabus
 
 ## Instructor
 
 Bryan Dixon
 
-## Prerequisite
+## Course Information
 
-CSCI 430; CSCI 565, CSCI 567, or MATH 485; senior standing.
+CSCI 693: Research Methods in Computer Science
 
-Students who take this class without completing the prerequisite class will be given a failing grade.
+3 units
+
+### Prerequisite
+
+Candidate status.
+
+Students who take this class without meeting the prerequisite will be given a failing grade.
+
+### Typically Offered
+
+Fall and spring
+
+### Catalog Description
+
+This course interweaves three distinct themes: investigation, experimentation, and technical writing. These themes culminate in a comprehensive research project, written report, presentation, and oral defense. First, students are immersed into the research process within Computer Science, including an understanding of the role, ethics, and responsibility of researchers in Computer Science. The second focus is on rigorous design of experiments for the purpose of testing research hypotheses, simulations, and models, and interpreting the results of those experiments. Finally, proficiency in communication of scientific ideas and findings will be addressed through intensive reading, critiques, technical writing, and oral presentations.
+
+9 hours supervision. (020616)
+
+### Grade Basis
+
+Report in Progress: Graded
+
+### Repeatability
+
+You may take this course for a maximum of 3 units.
+
+### Course Attributes
+
+Graduate Division; Laptop required, see department for details.
 
 ## Textbook
 
@@ -16,7 +44,7 @@ None
 
 ## Attendance
 
-This is not a lecture-based course. There will be weekly meetings in small groups to assess progress and receive feedback. Students are expected to work independently for the most part, with gentle reminders of upcoming milestones and status reports. When full class meetings are called they will be during the officially scheduled course time and classroom. It is every student's responsibility to check the BBL website weekly for schedule or requirements updates.
+This course includes substantial supervised, independent research work. There will be regular meetings to assess progress, discuss research methods, review written work, and receive feedback. Students are expected to work independently between meetings while making steady progress toward the research project, written report, presentation, and oral defense. When full class meetings are called they will be during the officially scheduled course time and classroom. It is every student's responsibility to check Canvas and EdStem weekly for schedule or requirements updates.
 
 ## Grading
 
@@ -28,45 +56,42 @@ Grades for this course will be relative. The students who do the best work will 
 
 ### Grade Categories:
 
-#### Milestones: 
+#### Milestones:
 
-* 10% Proposal
-    * Project plan and timeline
-* 10% Check-in weekly meeting or updates
-* 10% Midterm status check/demo
-* 10% Poster session (2.5 hours in person)
-* 10% Poster
-* 10% Final Presentation (20 mins) - TBA (sometime the last week of classes)
-* 40% Project portfolio & project
-    * Docs and project files on a git repo
-    * What you actually got done/built
-
-#### Extras
-
-* Major Field Test (MFT) (in person) - Required for Computer Science Majors, but score doesn't play into the grade of the course
-* ICCP exam (in person) - Required for Computer Information Systems Majors, usually two days, score doesn't play into the grade of the course
-* Senior Survey/Exit Exam Completion - Required, but score doesn't play into the grade of the course
+* Research process, ethics, and responsibility activities
+* Intensive reading, literature review, and technical critiques
+* Research proposal, project plan, and timeline
+* Experimental design for hypotheses, simulations, or models
+* Research project progress reports and supervision meetings
+* Written research report
+* Oral presentation and defense
 
 #### Letter Grades
 
-Letter grades will be assigned based on the completion of all milestones and on how the final project meets the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml). I'll try to indicate in my feedback on your proposals where your project would fall under these definitions if you choose not to revise and add more deliverables. You will receive an RP until completion of the MFT/ICCP and exit exam taken in the semester you actually graduate. If you are graduating this semester, make sure you do the MFT/ICCP & exit exam, or the RP will count like an F, preventing you from graduating, and you'll have to wait until the next semester to take the exam so you can graduate.  
+Letter grades will be assigned based on the completion and quality of all milestones and on how the final research project, written report, presentation, and oral defense meet the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml). The catalog grade basis for this course is Report in Progress: Graded.
 
 
 ### Grading Meetings
 
-We are going to investigate all the projects you turn in to detect code plagiarism using several methods. Any students whose code isn't uniquely theirs will need to schedule a grading meeting with the grader to answer detailed questions about how their code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking advice from fellow students on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
+We are going to investigate submitted research work, writing, data, analysis, and supporting project materials to detect plagiarism or other academic integrity concerns using several methods. Any students whose work does not appear to be uniquely theirs will need to schedule a grading meeting to answer detailed questions about their research process, analysis, writing, and conclusions. Seeking advice from fellow students on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of the research you submit.
 
 #### Use of LLMs
 
-This is a capstone, so some use of LLMs is allowed; however, only for small components of your overall project, and you need to properly cite all bits of code used from an LLM. You can not use an LLM to implement your entire project or you will get a 0.
+This is a graduate research methods course, so some use of LLMs is allowed. Tools such as Grammarly or other editorial assistants may be used for copyediting, grammar, clarity, and style revisions, but they may not be used to fully write your work or replace your own ideas, analysis, conclusions, written report, presentation, or oral defense.
+
+Any substantive use of LLMs to assist the research process must be documented and cited. This includes using an LLM to brainstorm research questions, summarize sources, design experiments, write or debug code, generate analysis approaches, interpret results, outline sections, revise arguments, or create presentation materials. You are responsible for checking all LLM-assisted work for accuracy, bias, source quality, and academic integrity.
+
+A proper citation or disclosure should identify the tool, date used, how it was used, the prompt or prompts used, and, when possible, a link to the conversation. For example: "OpenAI ChatGPT, May 27, 2026, was used to brainstorm possible experimental controls for the simulation study using the prompt, 'Suggest experimental controls for comparing two graph traversal simulations.' Conversation link: [URL]. All final experimental design decisions and written analysis are my own." If a particular citation style is required for a submitted artifact, include the disclosure in that style or in an acknowledgements/AI-use statement.
+
+The entire project cannot be completed with LLM help. LLMs may support limited parts of the research and writing process, but the research contribution, analysis, conclusions, report, presentation, and oral defense must be substantially your own work.
 
 ## Getting Help/E-mail
 
-As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
+As this is a graduate course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-You can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI490'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it. I would recommend asking questions on Piazza or Discord so to potentially if it's a question multiple students might want answered I'm not repeating myself. 
+You should send me a private message on EdStem before emailing me, as EdStem messages are more likely to be seen and responded to quickly. You can email me directly with any specific questions, but make sure you put **'CSCI693'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
-I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
+Questions about general aspects of the course that may benefit all students should be asked publicly on EdStem. If you ask a general course question privately or by email, I may answer it publicly or make the question public so that everyone has access to the same information. Questions about your individual research project, grades, accommodations, or other private matters should be sent as a private EdStem message or email.
 
 
 ## Responsibilities
@@ -84,36 +109,37 @@ You will not learn the material if you don't put in the time and effort required
 The first time you cheat, you will get a 0 on the test or assignment. The second time you cheat you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy until I put together one of my own:
 
 
-I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
+I expect all students to understand and follow the University's honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
-The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
+The bottom line is that you must do all the assignments on your own. Turning in research, writing, analysis, data, code, or presentation materials that anyone else created is cheating and will result in failing the course. Here are some examples of cheating:
 
-* copying code from another student
-* copying code from a book
+* copying research, writing, analysis, data, or code from another student
+* copying research, writing, analysis, data, or code from a book
 * copying code from the Internet
-* getting your friends to write your code
-* paying someone else to write your code
-* pestering other students until they give you their code
-* buying code
-* stealing code
-* letting someone steal your code (e.g. giving out your password, or using incorrect file protection)
-* giving your code to another student (both giving code and taking code are forms of cheating)
-* giving your laptop that contains your program to another student
+* copying writing, analysis, or project materials from the Internet
+* getting your friends to write your report, code, or presentation materials
+* paying someone else to complete your research, writing, analysis, code, or presentation materials
+* pestering other students until they give you their work
+* buying research papers, code, data, or analysis
+* stealing research, writing, data, code, or analysis
+* letting someone steal your work (e.g. giving out your password, or using incorrect file protection)
+* giving your work to another student (both giving work and taking work are forms of cheating)
+* giving your laptop that contains your project materials to another student
 * getting so much help on an assignment that you are no longer doing the assignment (this can come from one helper or many helpers)
-* crowdsourcing your code 
+* crowdsourcing your research, writing, analysis, code, or presentation materials
 * the list can go on...
 
 
-On the other hand, you are allowed to discuss projects and you may get help each other find bugs. Just make sure you don't get so much help that you are no longer doing the work.
+On the other hand, you are allowed to discuss research ideas, project planning, experimental design, and technical problems. Just make sure you don't get so much help that you are no longer doing the work.
 
-Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
+Required Consultation: If I suspect that you did not do your own work, you are required to meet with me and discuss your research process, writing, analysis, and project materials. During this meeting I will ask you questions about your work. If you don't understand the work you submitted I will assume you have cheated. In the event that you refuse to meet with me I will:
 
 * assume you cheated
 * give you a zero
 * report you to Student Judicial Affairs.
 
 
-I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
+I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old report, data, code, or analysis and you turn it in. Next semester George might give that same work to someone else and I could catch it. Now I will look through old submissions to see who else George has given his work to. One of my advantages is that I can use tools to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
 
 
 ## Religious Holidays
@@ -150,6 +176,3 @@ Please note that dishonesty relating to the vaccination policy and/or your failu
 
 Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
 
-## Important note about a possible work stoppage during the semester
-
-The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. It is possible that we will call a strike or other work stoppage this term. I promise to promptly inform you of any schedule disruption. Our working conditions are your learning conditions; we seek to protect both. For further information go to [www.CFAbargaining.org](www.CFAbargaining.org).

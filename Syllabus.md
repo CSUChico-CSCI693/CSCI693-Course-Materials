@@ -48,23 +48,24 @@ This course includes substantial supervised, independent research work. There wi
 
 ## Grading
 
-Grades for this course will be based on the quality, challenge, completeness, and scholarly rigor of the research project each student undertakes. I will not be following the traditional percentage grades of 90% for an A, 80% for a B, etc., and I don't like to grade on a curve, as applying it blindly could result in grades actually being lowered if everyone is doing very well in the course.
+Your project will be graded on a semester-long research project that culminates in writing a publishable peer-reviewed article as the lead author and presenting it. You will be graded on the following criteria with the corresponding weights:
 
-### Grade Categories:
+### Grade Criteria
 
-#### Milestones:
+| Category | Description | Weight |
+| --- | --- | --- |
+| Startup Components | Intro survey, setup of the shared Google Drive folder, and setup of the individual Overleaf project shared by the instructor. | 2% |
+| Readings | Four readings, written responses, and in-class discussions. | 10% |
+| Foundational Milestones | Research areas, proposal, elevator pitch, annotated bibliography, and research plan. | 24% |
+| Collaboration and Progress | Weekly progress update check-ins, professional communication, active collaboration with the instructor, and steady progress documented through the student's individual Overleaf project. | 20% |
+| Presentation | Final project oral presentation and presentation feedback. | 14% |
+| Research Paper | Research paper document, including draft and final versions. | 30% |
 
-* Research process, ethics, and responsibility activities
-* Intensive reading, literature review, and technical critiques
-* Research proposal, project plan, and timeline
-* Experimental design for hypotheses, simulations, or models
-* Research project progress reports and supervision meetings
-* Written research report
-* Oral presentation and defense
+Each student will have an individual Overleaf project for the research paper that I will share with them. You are expected to draft and revise your work in Overleaf throughout the semester rather than pasting in large finished blocks of text at the end. Overleaf revision history, comments, and change tracking may be used to evaluate progress, collaboration, and whether the submitted writing reflects your own sustained work.
 
-#### Letter Grades and Final Grading Caveats
+### Letter Grades and Final Grading Caveats
 
-Letter grades will be assigned based on the completion and quality of all milestones and on how the quality and challenge of the final research project, written report, presentation, and oral defense meet the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml) for graduate courses. The catalog grade basis for this course is Report in Progress: Graded.
+Letter grades will be assigned based on how the quality and challenge of the final research project, written article, presentation, and oral defense meet the university's [Grading Symbols Definitions](https://www.csuchico.edu/pres/em/2010/10-018.shtml) for graduate courses. The catalog grade basis for this course is Report in Progress: Graded.
 
 For graduate courses numbered 600 to 699, the grading symbol definitions are:
 
@@ -73,10 +74,12 @@ For graduate courses numbered 600 to 699, the grading symbol definitions are:
 * C: Minimally acceptable work, a level of achievement that meets the minimum requirements of the course.
 * F: Unacceptable work, a level of achievement that fails to meet the minimum requirements of the course. Not passing.
 
+Keep in mind that this syllabus is a living document and is subject to change. Significant changes will include a notification via email and/or in-class announcements.
+
 
 ### Grading Meetings
 
-We are going to investigate submitted research work, writing, data, analysis, and supporting project materials to detect plagiarism or other academic integrity concerns using several methods. Any students whose work does not appear to be uniquely theirs will need to schedule a grading meeting to answer detailed questions about their research process, analysis, writing, and conclusions. Seeking advice from fellow students on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of the research you submit.
+We are going to investigate submitted research work, writing, data, analysis, Overleaf revision history, and supporting project materials to detect plagiarism or other academic integrity concerns using several methods. Any students whose work does not appear to be uniquely theirs, including work that appears suddenly as large blocks of text without a clear drafting history, will need to schedule a grading meeting to answer detailed questions about their research process, analysis, writing, and conclusions. Seeking advice from fellow students on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of the research you submit.
 
 #### Use of LLMs
 

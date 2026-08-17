@@ -52,7 +52,7 @@ Your project will be graded on a semester-long research project that culminates 
 
 | Category | Description | Weight |
 | --- | --- | --- |
-| Startup Components | Intro survey, setup of the course repo, and setup of the individual Overleaf project shared by the instructor. | 2% |
+| Startup Components | Setup of the course repo, and setup of the individual Overleaf project shared by the instructor. | 2% |
 | Readings | Four readings, written responses, and in-class discussions. | 10% |
 | Foundational Milestones | Research areas, proposal, elevator pitch, annotated bibliography, and research plan. | 24% |
 | Collaboration and Progress | Regular progress update check-ins, professional communication, active collaboration with the instructor, and steady progress documented through the student's individual Overleaf project. | 20% |
